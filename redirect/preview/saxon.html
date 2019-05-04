@@ -1,10 +1,18 @@
+
+Here's a complete (yet simple) example of redirecting after X seconds, while updating a counter div:
+
 <html>
-    <body>
-    <p>You will be redirected to Saxon Official Preview</p>
+<body>
+    <div id="counter">5</div>
     <script>
-        var timer = setTimeout(function() {
-            window.location='http://wp.wp-preview.com/saxon/saxon-selector'
-        }, 3000);
+        setInterval(function() {
+            var div = document.querySelector("#counter");
+            var count = div.textContent * 1 - 1;
+            div.textContent = count;
+            if (count <= 0) {
+                window.location.replace("https://example.com");
+            }
+        }, 1000);
     </script>
 </body>
 </html>
