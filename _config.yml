@@ -11,11 +11,11 @@ markdown:          kramdown
 exclude:           [node_modules]
 
 # Permalinks
-permalink:        /blog/:year/:month/:day/:title/
+permalink:        /blog/:title/
 
 # Server
-url:               https://startbootstrap.com
-enforce_ssl:       startbootstrap.com
+url:               https://themeauthority.com
+enforce_ssl:       themeauthority.com
 encoding:          UTF-8
 host:              localhost
 port:              9000
