@@ -56,12 +56,12 @@ layout: default
       <!-- Download and Preview Buttons - Large Screens Only -->
       <div class="card border-0 shadow mb-4 d-none d-lg-block">
         <div class="card-body">
-          <a target="_blank" href="https://github.com/BlackrockDigital/startbootstrap-{{ page.slug }}/archive/gh-pages.zip" class="btn btn-block btn-primary mb-3 py-3" onclick="ga('send','event','Download','click','{{ page.title }}')">
-            <i class="fal fa-download fa-fw"></i> <span>Free Download</span>
+          <a target="_blank" href="{{ site.baseurl }}/go/{{ page.slug }}" class="btn btn-block btn-primary mb-3 py-3" onclick="ga('send','event','Download','click','{{ page.title }}')">
+            <i class="fal fa-download fa-fw"></i> <span>Download</span>
           </a>
           <hr>
           <a target="_blank" href="/previews/{{ page.slug }}/" class="btn btn-block btn-outline-primary mb-3"><i class="far fa-browser fa-fw"></i> Live Preview</a>
-          <a target="_blank" href="https://github.com/BlackrockDigital/startbootstrap-{{ page.slug }}" class="btn btn-block btn-outline-github"><i class="fab fa-github fa-fw"></i> View on GitHub</a>
+          <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" class="btn btn-block btn-outline-github"><i class="fab fa-github fa-fw"></i> Share</a>
         </div>
       </div>
       <!-- Twitter Card -->
@@ -72,13 +72,6 @@ layout: default
         </div>
       </div>
       <!-- Item Features -->
-      <div class="card border-0 shadow mb-4">
-        <div class="card-body">
-          <div class="d-flex justify-content-between small">
-            <span class="font-weight-bold">License</span>
-            <span><i class="fal fa-balance-scale"></i> <a class="font-weight-bold" href="https://github.com/BlackrockDigital/startbootstrap-{{page.slug}}/blob/master/LICENSE">MIT License</a></span>
-          </div>
-          <hr class="my-2">
           <div class="d-flex justify-content-between small">
             <span class="font-weight-bold">Released</span>
             <span>{{ page.date | date: "%b %-d, %Y" }}</span>
