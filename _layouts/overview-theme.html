@@ -18,11 +18,11 @@ layout: default
       <div class="card border-0 shadow mb-4 d-lg-none">
         <div class="card-body">
           <a target="_blank" href="{{ site.baseurl }}/go/{{ page.slug }}" class="btn btn-block btn-primary mb-3 py-3" onclick="ga('send','event','Download','click','{{ page.title }}')">
-            <i class="fal fa-download fa-fw"></i> <span>Free Download</span>
+            <i class="fal fa-download fa-fw"></i> <span>Download</span>
           </a>
           <hr>
           <a target="_blank" href="/previews/{{ page.slug }}/" class="btn btn-block btn-outline-primary mb-3"><i class="far fa-browser fa-fw"></i> Live Preview</a>
-          <a target="_blank" href="https://github.com/BlackrockDigital/startbootstrap-{{ page.slug }}" class="btn btn-block btn-outline-github"><i class="fab fa-github fa-fw"></i> View on GitHub</a>
+          <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" class="btn btn-block btn-outline-github"><i class="fab fa-github fa-fw"></i> Share</a>
         </div>
       </div>
       <!-- Item Description -->
