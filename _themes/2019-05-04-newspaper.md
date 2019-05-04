@@ -5,7 +5,7 @@ src:              /themes/newspaper
 categories:       wordpress blog-theme
 description:      "Newspaper is a WordPress theme that lets you write articles and blog posts with ease. We offer great support and friendly help!"
 bump:             "News & Magazine WordPress Theme"
-img-thumbnail:    /assets/img/screenshots/themes/saxon.png
+img-thumbnail:    /assets/img/screenshots/themes/newspaper.png
 img-full:         /assets/img/screenshots/themes/saxon.png
 img-desc:         "Newspaper theme"
 layout:           overview-theme
