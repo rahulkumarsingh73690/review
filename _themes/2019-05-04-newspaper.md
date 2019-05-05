@@ -35,6 +35,7 @@ features:
 
 long-description: "Create a great news website with our newspaper template. This bestseller theme is perfect for blogging and excellent for a news, newspaper, magazine, publishing or review site. It supports videos from YouTube. AMP and mobile ready. GDPR compliant, the theme is fast, simple, and easy to use for a cryptocurrency, fashion, food, lifestyle, modern, personal, travel, luxury, viral, minimal, minimalist projects and more.
 <br>
+<br>
 Integrated with Instagram, bbPress Forum, BuddyPress and WooCommerce, it uses the best clean SEO practices. Newspaper supports responsive Google Ads and AdSense."
 
 
