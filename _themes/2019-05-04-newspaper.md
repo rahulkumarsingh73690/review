@@ -10,6 +10,7 @@ img-full:         /assets/img/screenshots/themes/newspaper.png
 img-desc:         "Newspaper theme"
 layout:           overview-theme
 type:             theme
+download-url:     https://themeforest.net/item/newspaper/5489609?s_rank=1
 rank:             2
 
 version:          9.7.2
