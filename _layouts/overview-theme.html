@@ -87,6 +87,16 @@ layout: default
             <span class="font-weight-bold">{{ page.type | capitalize }} Version</span>
             <span>{{ page.version }}</span>
           </div>
+            <hr class="my-2">
+                <div class="d-flex justify-content-between small">
+            <span class="font-weight-bold">WordPress Version</span>
+            <span>{{ page.wordpress-version | date: "%b %-d, %Y" }}</span>
+          </div>
+          <hr class="my-2">
+                <div class="d-flex justify-content-between small">
+            <span class="font-weight-bold">Layout</span>
+            <span>{{ page.layout | date: "%b %-d, %Y" }}</span>
+          </div>
         </div>
       </div>
       <!-- Affiliate Content -->
