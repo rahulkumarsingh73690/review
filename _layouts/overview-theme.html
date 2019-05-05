@@ -56,12 +56,12 @@ layout: default
       <!-- Download and Preview Buttons - Large Screens Only -->
       <div class="card border-0 shadow mb-4 d-none d-lg-block">
         <div class="card-body">
-          <a target="_blank" href="{{ site.baseurl }}/redirect/go/{{ page.slug }}" class="btn btn-block btn-primary mb-3 py-3" onclick="ga('send','event','Download','click','{{ page.title }}')">
+          <a target="_blank" rel="nofollow" href="{{ page.download-url }}" class="btn btn-block btn-primary mb-3 py-3" onclick="ga('send','event','Download','click','{{ page.title }}')">
             <i class="fas fa-download"></i> <span>Download</span>
           </a>
           <hr>
-          <a target="_blank" href="/previews/{{ page.slug }}/" class="btn btn-block btn-outline-primary mb-3"><i class="fas fa-eye"></i> Live Preview</a>
-          <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" class="btn btn-block btn-outline-github"><i class="fas fa-share"></i> Share</a>
+          <a target="_blank" rel="nofollow" href="/previews/{{ page.slug }}/" class="btn btn-block btn-outline-primary mb-3"><i class="fas fa-eye"></i> Live Preview</a>
+          <a target="_blank" rel="nofollow" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" class="btn btn-block btn-outline-github"><i class="fas fa-share"></i> Share</a>
         </div>
       </div>
       <!-- Twitter Card -->
