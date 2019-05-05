@@ -16,7 +16,7 @@ rank:             2
 version:          9.7.2
 software-version: WordPress    5.1
 updated:          2019-05-04
-Responsive:       "True"
+responsive:       "True"
 
 meta-title:       "Newspaper - News & Magazine WordPress Theme"
 meta-description: "Newspaper is a WordPress theme that lets you write articles and blog posts with ease. We offer great support and friendly help!"
