@@ -8,6 +8,7 @@ bump:             "News & Magazine WordPress Theme"
 img-thumbnail:    /assets/img/screenshots/themes/newspaper.png
 img-full:         /assets/img/screenshots/themes/newspaper.png
 img-desc:         "Newspaper theme"
+preview:          "https://demo.tagdiv.com/select_demo/select_demo_newspaper"
 layout:           overview-theme
 type:             theme
 rank:             2
