@@ -14,8 +14,9 @@ download-url:     https://themeforest.net/item/newspaper/5489609?s_rank=1
 rank:             2
 
 version:          9.7.2
-wordpress:        5.1
+software-version: WordPress    5.1
 updated:          2019-05-04
+Responsive:       "True"
 
 meta-title:       "Newspaper - News & Magazine WordPress Theme"
 meta-description: "Newspaper is a WordPress theme that lets you write articles and blog posts with ease. We offer great support and friendly help!"
