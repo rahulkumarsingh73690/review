@@ -6,8 +6,8 @@ description:	    "A Bootstrap 4 sign in page with a split screen format featurin
 bump:			        "Modern Sign In Page with Split Screen Image"
 img-thumbnail:	    	  /assets/img/screenshots/snippets/sign-in-split.jpg
 img-desc:		      "Modern sign in page snippet for Bootstrap 4 projects"
-layout:		    	  overview-snippet
-type:             snippet
+layout:		    	  overview-freebies
+type:             freebies
 
 rank:             3
 
