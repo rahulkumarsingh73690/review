@@ -1,4 +1,3 @@
-
 ---
 title:            "Newspaper"
 slug:             newspaper
