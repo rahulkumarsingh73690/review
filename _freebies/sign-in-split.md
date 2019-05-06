@@ -1,7 +1,7 @@
 ---
 title:             "Modern Sign In Page with Split Screen Format"
 slug:              sign-in-split
-src:               /snippets/sign-in-split
+src:               /freebies/sign-in-split
 description:	    "A Bootstrap 4 sign in page with a split screen format featuring an image and form fields"
 bump:			        "Modern Sign In Page with Split Screen Image"
 img-thumbnail:	    	  /assets/img/screenshots/snippets/sign-in-split.jpg
