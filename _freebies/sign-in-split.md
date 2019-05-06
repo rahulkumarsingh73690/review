@@ -7,7 +7,7 @@ bump:			        "Modern Sign In Page with Split Screen Image"
 img-thumbnail:	    	  /assets/img/screenshots/snippets/sign-in-split.jpg
 img-desc:		      "Modern sign in page snippet for Bootstrap 4 projects"
 layout:		    	  overview-freebies
-type:             freebies
+type:             themes
 
 rank:             3
 
