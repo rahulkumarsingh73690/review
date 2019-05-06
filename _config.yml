@@ -33,7 +33,7 @@ collections:
   themes:
     output:        true
     permalink:     /:collection/:title/
-  templates:
+  freebies:
     output:        true
     permalink:     /:collection/:title/
   snippets:
