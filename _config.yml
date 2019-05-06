@@ -47,9 +47,6 @@ collections:
     permalink:     /:collection/:title/
   premium:
     output:        false
-  freebies:
-    output:        true
-    permalink:     /:collection/:title/
 
 # Pagination
 paginate: 5
