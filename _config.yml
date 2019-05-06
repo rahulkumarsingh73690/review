@@ -32,7 +32,7 @@ plugins:
 collections:
   themes:
     output:        true
-    permalink:     /:collection/:path/:title/
+    permalink:     /:collection/:name/:title/
   templates:
     output:        true
     permalink:     /:collection/:title/
