@@ -9,7 +9,7 @@ layout: default
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
     {% assign sorted = site.freebies | sort: "rank" %}
-    {% for theme in sorted %}
+    {% for freebies in sorted %}
 
     <div class="col-md-4">
       <div class="item-preview mb-5">
