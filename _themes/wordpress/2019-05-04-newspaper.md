@@ -1,7 +1,7 @@
 ---
 title:            "Newspaper"
-slug:             wordpress/newspaper
-src:              /themes/wordpress/newspaper
+slug:             newspaper
+src:              /themes/newspaper
 categories:       wordpress blog-theme
 description:      "Newspaper is a WordPress theme that lets you write articles and blog posts with ease. We offer great support and friendly help!"
 bump:             "News & Magazine WordPress Theme"
