@@ -33,6 +33,9 @@ collections:
   themes:
     output:        true
     permalink:     /:collection/:title/
+  freebies:
+    output:        true
+    permalink:     /:collection/:title/
   templates:
     output:        true
     permalink:     /:collection/:title/
