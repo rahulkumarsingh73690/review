@@ -16,8 +16,8 @@ meta-description: A Huge Free WordPress Theme Collection!
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
     {% assign sorted = site.freebies | sort: "rank" %}
-    {% for theme in sorted %}
-    {% if theme.categories contains 'wordpress' %}
+    {% for freebies in sorted %}
+    {% if freebies.categories contains 'wordpress' %}
     <div class="col-md-4">
       <div class="item-preview mb-5">
         <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ freebies.src }}">
