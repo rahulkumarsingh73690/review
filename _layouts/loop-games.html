@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% include masthead/masthead-page.html %}
+
+<div class="container">
+
+  <!-- Show paginated posts for the specificed collection -->
+  <div class="row">
+    {% assign sorted = site.games | sort: "rank" %}
+    {% for games in sorted %}
+
+    <div class="col-md-4">
+      <div class="item-preview mb-5">
+        <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ games.src }}">
+          <img class="lazy img-fluid" data-src="{{ games.img-thumbnail }}" alt="{{ games.img-desc }}">
+        </a>
+        <div class="item-preview-title">{{ games.title }}</div>
+        <div class="item-preview-description">{{ games.bump }}</div>
+      </div>
+    </div>
+
+    {% endfor %}
+
+  </div>
+  <!-- /.row -->
+
+</div>
+<!-- /.container -->
+
+{{ content }}

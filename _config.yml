@@ -36,6 +36,9 @@ collections:
   application:
     output:        true
     permalink:     /:collection/:title/
+  games:
+    output:        true
+    permalink:     /:collection/:title/
   templates:
     output:        true
     permalink:     /:collection/:title/
