@@ -9,7 +9,7 @@ img-thumbnail:    /assets/img/screenshots/themes/newspaper.png
 img-full:         /assets/img/screenshots/themes/newspaper.png
 img-desc:         "Files by Google Image"
 layout:           overview-review
-type:             app
+type:             theme
 download-url:     https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en_IN
 rank:             1
 
