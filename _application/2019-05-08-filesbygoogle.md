@@ -5,8 +5,8 @@ src:              /application/files-by-google
 categories:       Tools
 description:      "The faster way to clean up, find and share files."
 bump:             "Clean up space on your phone"
-img-thumbnail:    /assets/img/screenshots/themes/newspaper.png
-img-full:         /assets/img/screenshots/themes/newspaper.png
+img-thumbnail:    /assets/img/screenshots/application/filesgobygoogle.png
+img-full:         /assets/img/screenshots/application/filesgobygoogle.png
 img-desc:         "Files by Google Image"
 layout:           overview-review
 type:             theme
