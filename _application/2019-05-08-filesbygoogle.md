@@ -35,4 +35,7 @@ long-description: "Files by Google is a file management app that helps you:
 <br>
 Free up space with cleaning recommendations, Find files faster with search and simple browsing, Share files offline with others, fast and without data, Back up files to the cloud to save you space on device"
 
+
+twitter-image: https://review.andrimo.com/assets/img/screenshots/application/filesgobygoogle.png
+og-image: https://review.andrimo.com/assets/img/screenshots/application/filesgobygoogle.png
 ---
