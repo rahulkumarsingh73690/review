@@ -1,7 +1,5 @@
 # Site Information
-license:           "MIT"
-license-url:       "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
-author:            "Blackrock Digital"
+author:            "Rahul"
 
 # Site Settings
 baseurl:           ""
@@ -14,8 +12,8 @@ exclude:           [node_modules]
 permalink:        /blog/:title/
 
 # Server
-url:               https://themeauthority.com
-enforce_ssl:       themeauthority.com
+url:               https://review.andrimo.com
+enforce_ssl:       review.andrimo.com
 encoding:          UTF-8
 host:              localhost
 port:              9000
