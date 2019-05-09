@@ -62,25 +62,6 @@ layout: default
               </div>
             </div>
           </div>
-          <div class="tab-pane fade" id="smartphone" role="tabpanel" aria-labelledby="snippet-tab">
-            <div class="row">
-              {% assign smartphone_sorted = site.smartphone | sort: 'rank' %}
-              {% for smartphone in smartphone_sorted limit: 9 %}
-              <div class="col-md-4">
-                <div class="item-preview mb-5">
-                  <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ smartphone.src }}">
-                    <img class="lazy img-fluid" data-src="{{ smartphone.img-thumbnail }}" alt="{{ smartphone.img-desc }}">
-                  </a>
-                  <div class="item-preview-title">{{ smartphone.title }}</div>
-                  <div class="item-preview-description">{{ smartphone.bump }}</div>
-                </div>
-              </div>
-              {% endfor %}
-              <div class="col text-center">
-                <a href="/smartphone/" class="btn btn-xl btn-snippet text-white shadow">Browse All Smartphone</a>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
       <div class="col-lg-4">
