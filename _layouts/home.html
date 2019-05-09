@@ -9,10 +9,13 @@ layout: default
     <div class="container">
       <ul class="nav nav-tabs sb-nav-tabs border-0" id="myTab" role="tablist">
         <li class="nav-item">
-          <a class="nav-link nav-link-theme active" id="applicaion-tab" data-toggle="tab" href="#application" role="tab" aria-controls="home" aria-selected="true">Popular Application</a>
+          <a class="nav-link nav-link-theme active" id="theme-tab" data-toggle="tab" href="#application" role="tab" aria-controls="home" aria-selected="true">Popular Application/a>
         </li>
         <li class="nav-item">
-          <a class="nav-link nav-link-template" id="games-tab" data-toggle="tab" href="#games" role="tab" aria-controls="profile" aria-selected="false">Popular Games</a>
+          <a class="nav-link nav-link-template" id="template-tab" data-toggle="tab" href="#games" role="tab" aria-controls="profile" aria-selected="false">Popular Games</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link nav-link-snippet" id="snippet-tab" data-toggle="tab" href="#smartphone" role="tab" aria-controls="contact" aria-selected="false">Popular Smartphone</a>
         </li>
       </ul>
     </div>
@@ -42,7 +45,7 @@ layout: default
           </div>
           <div class="tab-pane fade" id="games" role="tabpanel" aria-labelledby="games-tab">
             <div class="row">
-              {% assign templates_sorted = site.games: 'rank' %}
+              {% assign games_sorted = site.games | sort: 'rank' %}
               {% for games in games_sorted limit: 6 %}
               <div class="col-md-6">
                 <div class="item-preview mb-5">
@@ -59,6 +62,27 @@ layout: default
               </div>
             </div>
           </div>
+          <div class="tab-pane fade" id="smartphone" role="tabpanel" aria-labelledby="snippet-tab">
+            <div class="row">
+              {% assign smartphone_sorted = site.smartphone | sort: 'rank' %}
+              {% for smartphone in smartphone_sorted limit: 9 %}
+              <div class="col-md-4">
+                <div class="item-preview mb-5">
+                  <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ smartphone.src }}">
+                    <img class="lazy img-fluid" data-src="{{ smartphone.img-thumbnail }}" alt="{{ smartphone.img-desc }}">
+                  </a>
+                  <div class="item-preview-title">{{ smartphone.title }}</div>
+                  <div class="item-preview-description">{{ smartphone.bump }}</div>
+                </div>
+              </div>
+              {% endfor %}
+              <div class="col text-center">
+                <a href="/smartphone/" class="btn btn-xl btn-snippet text-white shadow">Browse All Smartphone</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="col-lg-4">
         <div class="carbon-inverse mb-5">
           {% include carbon.html %}
@@ -102,5 +126,5 @@ layout: default
     </div>
   </div>
 </section>
-    
-    {{ content }}
+
+{{ content }}
