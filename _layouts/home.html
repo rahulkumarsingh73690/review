@@ -26,12 +26,12 @@ layout: default
         <div class="tab-content mb-5 mb-lg-0" id="myTabContent">
           <div class="tab-pane fade show active" id="theme" role="tabpanel" aria-labelledby="theme-tab">
             <div class="row">
-              {% assign themes_sorted = site.themes | sort: 'rank' %}
-              {% for theme in themes_sorted limit: 6 %}
+              {% assign themes_sorted = site.review | sort: 'rank' %}
+              {% for theme in review_sorted limit: 6 %}
               <div class="col-md-6">
                 <div class="item-preview mb-5">
-                  <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ theme.src }}">
-                    <img class="lazy img-fluid" data-src="{{ theme.img-thumbnail }}" alt="{{ theme.img-desc }}">
+                  <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ review.src }}">
+                    <img class="lazy img-fluid" data-src="{{ review.img-thumbnail }}" alt="{{ review.img-desc }}">
                   </a>
                   <div class="item-preview-title">{{ theme.title }}</div>
                   <div class="item-preview-description">{{ theme.bump }}</div>
