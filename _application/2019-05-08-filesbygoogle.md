@@ -2,7 +2,7 @@
 title:            "Files by Google"
 slug:             files-by-google
 src:              /application/files-by-google
-categories:       Tools
+categories:       tools
 description:      "The faster way to clean up, find and share files."
 bump:             "Clean up space on your phone"
 img-thumbnail:    /assets/img/screenshots/application/filesgobygoogle.png
@@ -35,7 +35,4 @@ long-description: "Files by Google is a file management app that helps you:
 <br>
 Free up space with cleaning recommendations, Find files faster with search and simple browsing, Share files offline with others, fast and without data, Back up files to the cloud to save you space on device"
 
-
-twitter-image: https://startbootstrap.com/assets/img/screenshots/themes/twitter/one-page-wonder.png
-og-image: https://startbootstrap.com/assets/img/screenshots/themes/one-page-wonder.png
 ---
