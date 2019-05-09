@@ -28,8 +28,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-tidy
 
-# Collections	# Collections
-collections:	collections:
+# Collections	
+collections:	
   themes:	
     output:        true	
     permalink:     /:collection/:title/	
