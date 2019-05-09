@@ -37,6 +37,3 @@ Free up space with cleaning recommendations, Find files faster with search and s
 
 
 ---
-
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/filesgobygoogle.png
-og-image: https://review.andrimo.com/assets/img/screenshots/application/filesgobygoogle.png
