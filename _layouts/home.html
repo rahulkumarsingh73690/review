@@ -9,7 +9,7 @@ layout: default
     <div class="container">
       <ul class="nav nav-tabs sb-nav-tabs border-0" id="myTab" role="tablist">
         <li class="nav-item">
-          <a class="nav-link nav-link-theme active" id="theme-tab" data-toggle="tab" href="#theme" role="tab" aria-controls="home" aria-selected="true">Popular Themes</a>
+          <a class="nav-link nav-link-theme active" id="applicaion-tab" data-toggle="tab" href="#application" role="tab" aria-controls="home" aria-selected="true">Popular Application/a>
         </li>
         <li class="nav-item">
           <a class="nav-link nav-link-template" id="template-tab" data-toggle="tab" href="#template" role="tab" aria-controls="profile" aria-selected="false">Popular Templates</a>
@@ -24,22 +24,22 @@ layout: default
     <div class="row">
       <div class="col-lg-8">
         <div class="tab-content mb-5 mb-lg-0" id="myTabContent">
-          <div class="tab-pane fade show active" id="theme" role="tabpanel" aria-labelledby="theme-tab">
+          <div class="tab-pane fade show active" id="application" role="tabpanel" aria-labelledby="application-tab">
             <div class="row">
-              {% assign themes_sorted = site.review | sort: 'rank' %}
-              {% for theme in review_sorted limit: 6 %}
+              {% assign application_sorted = site.application | sort: 'rank' %}
+              {% for application in application_sorted limit: 6 %}
               <div class="col-md-6">
                 <div class="item-preview mb-5">
-                  <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ review.src }}">
-                    <img class="lazy img-fluid" data-src="{{ review.img-thumbnail }}" alt="{{ review.img-desc }}">
+                  <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ application.src }}">
+                    <img class="lazy img-fluid" data-src="{{ application.img-thumbnail }}" alt="{{ application.img-desc }}">
                   </a>
-                  <div class="item-preview-title">{{ theme.title }}</div>
-                  <div class="item-preview-description">{{ theme.bump }}</div>
+                  <div class="item-preview-title">{{ application.title }}</div>
+                  <div class="item-preview-description">{{ application.bump }}</div>
                 </div>
               </div>
               {% endfor %}
               <div class="col-12 text-center">
-                <a href="/themes/" class="btn btn-xl btn-theme shadow">Browse All Themes</a>
+                <a href="/application/" class="btn btn-xl btn-theme shadow">Browse All Application</a>
               </div>
             </div>
           </div>
