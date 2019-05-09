@@ -12,10 +12,7 @@ layout: default
           <a class="nav-link nav-link-theme active" id="applicaion-tab" data-toggle="tab" href="#application" role="tab" aria-controls="home" aria-selected="true">Popular Application</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link nav-link-template" id="template-tab" data-toggle="tab" href="#template" role="tab" aria-controls="profile" aria-selected="false">Popular Templates</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link nav-link-snippet" id="snippet-tab" data-toggle="tab" href="#snippet" role="tab" aria-controls="contact" aria-selected="false">Popular Snippets</a>
+          <a class="nav-link nav-link-template" id="games-tab" data-toggle="tab" href="#games" role="tab" aria-controls="profile" aria-selected="false">Popular Games</a>
         </li>
       </ul>
     </div>
@@ -43,46 +40,25 @@ layout: default
               </div>
             </div>
           </div>
-          <div class="tab-pane fade" id="template" role="tabpanel" aria-labelledby="template-tab">
+          <div class="tab-pane fade" id="games" role="tabpanel" aria-labelledby="games-tab">
             <div class="row">
-              {% assign templates_sorted = site.templates | sort: 'rank' %}
-              {% for template in templates_sorted limit: 6 %}
+              {% assign templates_sorted = site.games: 'rank' %}
+              {% for games in games_sorted limit: 6 %}
               <div class="col-md-6">
                 <div class="item-preview mb-5">
-                  <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ template.src }}">
-                    <img class="lazy img-fluid" data-src="{{ template.img-thumbnail }}" alt="{{ template.img-desc }}">
+                  <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ games.src }}">
+                    <img class="lazy img-fluid" data-src="{{ games.img-thumbnail }}" alt="{{ games.img-desc }}">
                   </a>
-                  <div class="item-preview-title">{{ template.title }}</div>
-                  <div class="item-preview-description">{{ template.bump }}</div>
+                  <div class="item-preview-title">{{ games.title }}</div>
+                  <div class="item-preview-description">{{ games.bump }}</div>
                 </div>
               </div>
               {% endfor %}
               <div class="col text-center">
-                <a href="/templates/" class="btn btn-xl btn-template shadow">Browse All Templates</a>
+                <a href="/games/" class="btn btn-xl btn-template shadow">Browse All Games</a>
               </div>
             </div>
           </div>
-          <div class="tab-pane fade" id="snippet" role="tabpanel" aria-labelledby="snippet-tab">
-            <div class="row">
-              {% assign snippets_sorted = site.snippets | sort: 'rank' %}
-              {% for snippet in snippets_sorted limit: 9 %}
-              <div class="col-md-4">
-                <div class="item-preview mb-5">
-                  <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ snippet.src }}">
-                    <img class="lazy img-fluid" data-src="{{ snippet.img-thumbnail }}" alt="{{ snippet.img-desc }}">
-                  </a>
-                  <div class="item-preview-title">{{ snippet.title }}</div>
-                  <div class="item-preview-description">{{ snippet.bump }}</div>
-                </div>
-              </div>
-              {% endfor %}
-              <div class="col text-center">
-                <a href="/snippets/" class="btn btn-xl btn-snippet text-white shadow">Browse All Snippets</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
       <div class="col-lg-4">
         <div class="carbon-inverse mb-5">
           {% include carbon.html %}
@@ -126,5 +102,3 @@ layout: default
     </div>
   </div>
 </section>
-
-{{ content }}
