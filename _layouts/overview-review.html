@@ -91,45 +91,5 @@ layout: default
           </div>
         </div>
       </div>
-      <!-- Affiliate Content -->
-      <div class="card border-0 shadow mb-4">
-        <div class="card-body">
-          <h5 class="mb-0">Need something more?</h5>
-          <p class="small mb-4">Try one of these premium Bootstrap themes!</p>
-          <div class="row">
-            {% if page.categories contains 'admin' %}
-            {% for item in site.premium reversed %}
-            {% if item.categories contains 'admin' %}
-            <!-- Admin Affiliate Links -->
-            <div class="col-6 mb-4">
-              <div class="item-preview">
-                <a class="item-preview-img box-shadow-lg d-block" href="{{ item.src }}" onclick="ga('send','event','Affiliate Link','click','{{ item.affiliate }} - {{ item.title }}')" rel="nofollow">
-                  <img class="img-fluid" src="{{ item.img-thumbnail }}" alt="{{ item.img-desc }}">
-                </a>
-              </div>
-            </div>
-            {% endif %}
-            {% endfor %}
-            {% else %}
-            {% for item in site.premium reversed %}
-            {% if item.categories contains 'ui' %}
-            <!-- UI Based Affiliate Links -->
-            <div class="col-6 mb-4">
-              <div class="item-preview">
-                <a class="item-preview-img box-shadow-lg d-block" href="{{ item.src }}" onclick="ga('send','event','Affiliate Link','click','{{ item.affiliate }} - {{ item.title }}')" rel="nofollow">
-                  <img class="img-fluid" src="{{ item.img-thumbnail }}" alt="{{ item.img-desc }}">
-                </a>
-              </div>
-            </div>
-            {% endif %}
-            {% endfor %}
-            {% endif %}
-          </div>
-          <a href="/buy-bootstrap-themes" class="btn btn-outline-primary btn-block">View More Premium Content</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
+     
 {{ content }}
