@@ -34,10 +34,10 @@ collections:
     output:        true	
     permalink:     /:collection/:title/	
   application:	  
-    output:        true	    output:        
+    output:        true	   
     permalink:     /:collection/:title/	   
   games:	  
-    output:        true	    output:      
+    output:        true	   
     permalink:     /:collection/:title/	    
   templates:	
     output:        true	
