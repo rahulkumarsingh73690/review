@@ -5,8 +5,8 @@ src:              /application/google-lens
 categories:       tools
 description:      "The faster way to find photo."
 bump:             "Analyse Image"
-img-thumbnail:    /assets/img/screenshots/application/filesgobygoogle.png
-img-full:         /assets/img/screenshots/application/filesgobygoogle.png
+img-thumbnail:    /assets/img/screenshots/application/google-lens.png
+img-full:         /assets/img/screenshots/application/google-lens.png
 img-desc:         "Google Lens"
 layout:           overview-review
 type:             theme
@@ -39,6 +39,6 @@ IDENTIFY PLANTS AND ANIMALS - Find out what that plant is in your friend's apart
 FIND A LOOK YOU LIKE - See an outfit that catches your eye? Or a chair that's perfect for your living room? Find similar clothes, furniture, and home decor—without having to describe what you're looking for in a search box."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/filesgobygoogle.png
-og-image: https://review.andrimo.com/assets/img/screenshots/application/filesgobygoogle.png
+twitter-image: https://review.andrimo.com/assets/img/screenshots/application/google-lens.png
+og-image: https://review.andrimo.com/assets/img/screenshots/application/google-lens.png
 ---
