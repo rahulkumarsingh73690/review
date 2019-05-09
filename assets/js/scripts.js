@@ -34,7 +34,7 @@ $('body').scrollspy({
 
   var user_name, api_key, twitch_widget;
 
-  user_name = "startbootstrap";
+  user_name = "andrimoofficial";
   api_key = "5j0r5b7qb7kro03fvka3o8kbq262wwm";
   twitch_widget = $("#twitch-widget");
 
