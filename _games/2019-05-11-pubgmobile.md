@@ -5,8 +5,8 @@ src:              /games/pubg-mobile
 categories:       action
 description:      "PLAYERUNKNOWN'S BATTLEGROUNDS goes mobile - the original Battle Royale game is now available on your device!"
 bump:             "The original Battle Royale game"
-img-thumbnail:    /assets/img/screenshots/application/pubg-mobile.jpg
-img-full:         /assets/img/screenshots/application/pubg-mobile.jpg
+img-thumbnail:    /assets/img/screenshots/games/pubg-mobile.jpg
+img-full:         /assets/img/screenshots/games/pubg-mobile.jpg
 img-desc:         "Pubg mobile"
 layout:           overview-review
 type:             theme
@@ -63,7 +63,7 @@ Survive the battle with your friends. Invite and team up with your friends, coor
 Powerful anti-cheat mechanisms ensure a fun and fair environment for all PUBG MOBILE players."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/filesgobygoogle.png
-og-image: https://review.andrimo.com/assets/img/screenshots/application/filesgobygoogle.png
+twitter-image: https://review.andrimo.com/assets/img/screenshots/games/pubg-mobile.jpg
+og-image: https://review.andrimo.com/assets/img/screenshots/games/pubg-mobile.jpg
 ---
 
