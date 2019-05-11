@@ -5,8 +5,8 @@ src:              /games/pubg-mobile
 categories:       action
 description:      "PLAYERUNKNOWN'S BATTLEGROUNDS goes mobile - the original Battle Royale game is now available on your device!"
 bump:             "The original Battle Royale game"
-img-thumbnail:    /assets/img/screenshots/games/pubg-mobile.jpg
-img-full:         /assets/img/screenshots/games/pubg-mobile.jpg
+img-thumbnail:    /assets/img/screenshots/games/Pubg-mobile.jpg
+img-full:         /assets/img/screenshots/games/Pubg-mobile.jpg
 img-desc:         "Pubg mobile"
 layout:           overview-review
 type:             theme
