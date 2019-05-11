@@ -63,7 +63,7 @@ Survive the battle with your friends. Invite and team up with your friends, coor
 Powerful anti-cheat mechanisms ensure a fun and fair environment for all PUBG MOBILE players."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/games/pubg-mobile.jpg
-og-image: https://review.andrimo.com/assets/img/screenshots/games/pubg-mobile.jpg
+twitter-image: https://review.andrimo.com/assets/img/screenshots/games/Pubg-mobile.jpg
+og-image: https://review.andrimo.com/assets/img/screenshots/games/Pubg-mobile.jpg
 ---
 
