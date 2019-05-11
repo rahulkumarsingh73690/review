@@ -15,7 +15,6 @@ rank:             1
 
 operating-system: Android
 play-store:       Available
-responsive:       "True"
 
 meta-title:       "Files by Google: Clean up space on your phone"
 meta-description: "The faster way to clean up, find and share files."
