@@ -1,10 +1,10 @@
 ---
-title:            "Learn To Trade Crypto"
+title:            "Altcoin Fantasy"
 slug:             learn-to-trade-crypto
 src:              /application/learn-to-trade-crypto
 categories:       finance
 description:      "Curious about crypto and crypto trading 🤔? Try Altcoin Fantasy’s FREE crypto trading simulator and feel the thrill of trading crypto🎢 without the risk 🙌. No experience is needed and players can win crypto prizes in our weekly fantasy crypto trading competitions."
-bump:             "Bitcoin Trading Sim Game"
+bump:             "Learn To Trade Crypto"
 img-thumbnail:    /assets/img/screenshots/application/learn-to-trade-crypto.png
 img-full:         /assets/img/screenshots/application/learn-to-trade-crypto.png
 img-desc:         "Learn To Trade Crypto Image"
@@ -16,7 +16,7 @@ rank:             3
 operating-system: Android
 play-store:       Available
 
-meta-title:       "Learn To Trade Crypto - Bitcoin Trading Sim Game"
+meta-title:       "Altcoin Fantasy - Learn To Trade Crypto"
 meta-description: "Curious about crypto and crypto trading 🤔? Try Altcoin Fantasy’s FREE crypto trading simulator and feel the thrill of trading crypto🎢 without the risk 🙌. No experience is needed and players can win crypto prizes in our weekly fantasy crypto trading competitions."
 
 features:
