@@ -1,5 +1,5 @@
 ---
-title:            "Altcoin Fantasy"
+title:            "Altcoin Fantasy - Learn To Trade Crypto"
 slug:             learn-to-trade-crypto
 src:              /application/learn-to-trade-crypto
 categories:       finance
