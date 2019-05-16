@@ -5,8 +5,8 @@ src:              /application/google-opinion-rewards
 categories:       tools
 description:      "Answer quick surveys and earn Google Play credit with Google Opinion Rewards, an app created by the Google Surveys team."
 bump:             "Earn Free Google Play Credit"
-img-thumbnail:    /assets/img/screenshots/application/
-img-full:         /assets/img/screenshots/application/
+img-thumbnail:    /assets/img/screenshots/application/google-opinion-reward.png
+img-full:         /assets/img/screenshots/application/google-opinion-reward.png
 img-desc:         "Google Opinion Rewards"
 layout:           overview-review
 type:             theme
