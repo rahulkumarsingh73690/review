@@ -23,7 +23,7 @@ features:
   - Earn Free Google Play Credit
   - Short Survey
 
-long-description: "Getting started is easy. Download the app and answer basic questions about yourself. "
+long-description: "Getting started is easy. Download the app and answer basic questions about yourself. We will then send you surveys around once a week, although it may be more or less frequent. You will get a notification on your phone when a short and relevant survey is ready for you, and can receive up to $1.00 in Play credit for completing it. Questions can range from, "Which logo is best?" and Which promotion is most compelling? to When do you plan on traveling next?"
 
 
 twitter-image: https://review.andrimo.com/assets/img/screenshots/application/google-opinion-reward.png
