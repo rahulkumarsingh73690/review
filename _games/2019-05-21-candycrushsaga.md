@@ -5,8 +5,8 @@ src:              /games/candy-crush-saga
 categories:       casual
 description:      "Spring has sprung in Candy Crush Saga, switch and match colourful candies to unwrap egg-cellent in-game surprises!"
 bump:             "Mind game"
-img-thumbnail:    /assets/img/screenshots/games/
-img-full:         /assets/img/screenshots/games/
+img-thumbnail:    /assets/img/screenshots/games/Candy-Crush-Saga.jpg
+img-full:         /assets/img/screenshots/games/Candy-Crush-Saga.jpg
 img-desc:         "Candy Crush Saga"
 layout:           overview-review
 type:             theme
@@ -41,7 +41,7 @@ Plan your moves by matching 3 or more candies in a row, using boosters wisely in
 Take on this deliciously sweet match 3 Saga alone or play with friends! Candy Crush Saga is completely free to play but some optional in-game items will require payment."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/games/
-og-image: https://review.andrimo.com/assets/img/screenshots/games/
+twitter-image: https://review.andrimo.com/assets/img/screenshots/games/Candy-Crush-Saga.jpg
+og-image: https://review.andrimo.com/assets/img/screenshots/games/Candy-Crush-Saga.jpg
 ---
 
