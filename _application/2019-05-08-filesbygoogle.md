@@ -30,8 +30,8 @@ features:
   - Backup Files On SD Card
 
 proscons:
-<table>
-<colgroup>
+     <table>
+     <colgroup>
 <col width="30%" />
 <col width="70%" />
 </colgroup>
