@@ -53,24 +53,24 @@ layout: default
             <td>
                  <div class="card border-0 shadow mb-4">
         <div class="card-body">
-          <h5 class="m-0">Pros &nbsp; &nbsp; &nbsp; &nbsp;</h5>
+          <h5 class="m-0">Pros</h5>
           <hr>
           <ul class="mb-0">
             {% for feature in page.pros %}
-            <table>{{ proscons }}</table>
+            <li>{{ proscons }}</li>
             {% endfor %}
           </ul>
         </div>
             </td>
             <td>
-              &nbsp;
+           
         <div class="card border-0 shadow mb-4">
       <div class="card-body">
-          <h5 class="m-0">Cons &nbsp; &nbsp; &nbsp; &nbsp;</h5>
+          <h5 class="m-0">Cons</h5>
           <hr>
           <ul class="mb-0">
             {% for feature in page.cons %}
-            <table>{{ proscons }}</table>
+            <li>{{ proscons }}</li>
             {% endfor %}
           </ul>
         </div>
