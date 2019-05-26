@@ -50,7 +50,16 @@ layout: default
           <h5 class="m-0">Pros & Cons</h5>
           <hr>
           <ul class="mb-0">
-            {% for feature in page.proscons %}
+            {% for feature in page.pros %}
+            <table>{{ proscons }}</table>
+            {% endfor %}
+          </ul>
+        </div>
+      <div class="card-body">
+          <h5 class="m-0">Pros & Cons</h5>
+          <hr>
+          <ul class="mb-0">
+            {% for feature in page.cons %}
             <table>{{ proscons }}</table>
             {% endfor %}
           </ul>
