@@ -29,9 +29,8 @@ features:
   - Backup Files On Cloud
   - Backup Files On SD Card
 
- cons:
+ pros:
    - test
-
 
 long-description: "Files by Google is a file management app that helps you:
 <br>
