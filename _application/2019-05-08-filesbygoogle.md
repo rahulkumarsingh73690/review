@@ -30,7 +30,8 @@ features:
   - Backup Files On SD Card
 
 proscons:
-    -Free    - paid
+  - Free   
+  - paid
     
 
 
