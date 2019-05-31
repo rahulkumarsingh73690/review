@@ -5,8 +5,8 @@ src:              /application/phone-drive
 categories:       tools
 description:      "Phone Drive allows you to store, view and manage local on your Android device."
 bump:             "File Sharing Tools"
-img-thumbnail:    /assets/img/screenshots/application/
-img-full:         /assets/img/screenshots/application/
+img-thumbnail:    /assets/img/screenshots/application/phone-drive.jpg
+img-full:         /assets/img/screenshots/application/phone-drive.jpg
 img-desc:         "Files by Google Image"
 layout:           overview-review
 type:             theme
@@ -39,6 +39,6 @@ long-description: "Phone Drive is an app that let you store, manage, share, view
 "
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/
-og-image: https://review.andrimo.com/assets/img/screenshots/application/
+twitter-image: https://review.andrimo.com/assets/img/screenshots/application/phone-drive.jpg
+og-image: https://review.andrimo.com/assets/img/screenshots/application/phone-drive.jpg
 ---
