@@ -1,5 +1,5 @@
 ---
-title:            "Phone Drive"
+title:            "Phone Drive - File Sharing Tools"
 slug:             phone-drive
 src:              /application/phone-drive
 categories:       tools
