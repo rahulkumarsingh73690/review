@@ -2,7 +2,7 @@
 title:            "Altcoin Fantasy - Learn To Trade Crypto"
 slug:             learn-to-trade-crypto
 src:              /application/learn-to-trade-crypto
-categories:       finance
+categories:       "finance"
 description:      "Curious about crypto and crypto trading 🤔? Try Altcoin Fantasy’s FREE crypto trading simulator and feel the thrill of trading crypto🎢 without the risk 🙌. No experience is needed and players can win crypto prizes in our weekly fantasy crypto trading competitions."
 bump:             "Learn To Trade Crypto"
 img-thumbnail:    /assets/img/screenshots/application/learn-to-trade-crypto.png
