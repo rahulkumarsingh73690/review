@@ -8,8 +8,8 @@ layout: default
 
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
-    {% assign sorted = site.application | sort: "rank" %}
-    {% for application in sorted %}
+    {% assign sorted = site.theme | sort: "rank" %}
+    {% for theme in sorted %}
 
     <div class="col-md-4">
       <div class="item-preview mb-5">
