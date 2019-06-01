@@ -1,0 +1,35 @@
+---
+layout: loop-application
+type: theme
+title: Finance App
+description: Best Android Finance Application Review!
+permalink: /application/finance/
+
+meta-title: Finance App
+meta-description: Best Android Finance Application Review!
+---
+
+<div class="container">
+
+  <!-- Show paginated posts for the specificed collection -->
+  <div class="row">
+    {% assign sorted = site.application | sort: "finance" %}
+    {% for finance in sorted %}
+    {% if application.categories contains 'finance' %}
+    <div class="col-md-4">
+      <div class="item-preview mb-5">
+        <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ application.src }}">
+          <img class="img-fluid" src="{{ application.img-thumbnail }}" alt="{{ application.img-desc }}">
+        </a>
+        <div class="item-preview-title">{{ application.title }}</div>
+        <div class="item-preview-description">{{ application.bump }}</div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+  </div>
+  <!-- /.row -->
+
+</div>
+<!-- /.container -->
