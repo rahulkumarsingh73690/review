@@ -35,6 +35,14 @@ features:
 - Plain text
 - HTML web pages
 
+pros:
+  - Share Files Across Cross Plateform
+  - Support Many File Format
+  
+cons:
+  - Installing takes so much time  
+  
+
 long-description: "Phone Drive is an app that let you store, manage, share, view document, play music or videos, and share or transfer files between devices from mobile to PC or mobile to mobile with local connectivity without using internet connection.
 "
 
