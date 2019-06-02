@@ -13,9 +13,9 @@ meta-description: Best Android Tools Application Review!
 
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
-   
-    {% if application.categories contains 'tools' %} 
+       {% assign sorted = site.application | sort: "rank" %}
     {% for application in sorted %}
+    {% if application.categories contains 'tools' %} 
     <div class="col-md-4">
       <div class="item-preview mb-5">
         <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ application.src }}">
@@ -33,3 +33,5 @@ meta-description: Best Android Tools Application Review!
 
 </div>
 <!-- /.container -->
+
+{{ content }}
