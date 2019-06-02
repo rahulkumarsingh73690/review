@@ -1,35 +1,6 @@
 //
 // Base styles
 //
-
-.cardpros{
-  position: relative;
-  display: inline;
-  flex-direction: column;
-  min-width: 0; // See https://github.com/twbs/bootstrap/pull/22740#issuecomment-305868106
-  word-wrap: break-word;
-  background-color: $card-bg;
-  background-clip: border-box;
-  border: $card-border-width solid $card-border-color;
-  @include border-radius($card-border-radius);
-  
-    > hr {
-    margin-right: 0;
-    margin-left: 0;
-  }
-
-  > .list-group:first-child {
-    .list-group-item:first-child {
-      @include border-top-radius($card-border-radius);
-    }
-  }
-
-  > .list-group:last-child {
-    .list-group-item:last-child {
-      @include border-bottom-radius($card-border-radius);
-    }
-  }
-}
   
 .card {
   position: relative;
