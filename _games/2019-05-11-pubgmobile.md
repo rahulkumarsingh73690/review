@@ -27,6 +27,18 @@ features:
   - Team Up with Friends
   - Fair Gaming Environment
 
+pros:
+  - Short matches. You don't have to wait for one or two days for result
+  - Every minute is new experience and suspense
+  - You can play with friends and talk with them
+  - Available on mobile and PC
+  - You get a kick whenever you shoot a Headshot.The red marker is most satisfying
+
+cons:
+  - Very addictive game
+  - Lag and Bugs with new update
+  - Most of the perks are not free
+
 long-description: "<strong>Official PUBG on Mobile</strong>
 <br>
 <br>
