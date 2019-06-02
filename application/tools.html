@@ -13,16 +13,16 @@ meta-description: Best Android Tools Application Review!
 
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
-    {% assign sorted = site.application | sort: "tools" %}
+    {% assign sorted = site.application | sort: "rank" %}
     {% for application in sorted %}
     {% if application.categories contains 'tools' %}
     <div class="col-md-4">
       <div class="item-preview mb-5">
-        <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ tools.src }}">
-          <img class="img-fluid" src="{{ tools.img-thumbnail }}" alt="{{ tools.img-desc }}">
+        <a class="item-preview-img box-shadow-lg d-block mb-3" href="{{ application.src }}">
+          <img class="img-fluid" src="{{ application.img-thumbnail }}" alt="{{ application.img-desc }}">
         </a>
-        <div class="item-preview-title">{{ tools.title }}</div>
-        <div class="item-preview-description">{{ tools.bump }}</div>
+        <div class="item-preview-title">{{ application.title }}</div>
+        <div class="item-preview-description">{{ application.bump }}</div>
       </div>
     </div>
     {% endif %}
