@@ -29,6 +29,16 @@ features:
   - Leaderboards to watch your friends and competitors!
   - It's easy to sync the game between devices and unlock full game features when connected to the Internet
   
+pros:
+  - Free to play
+  - Varying elements demand differing strategies
+  - Boosters are here to help
+  - A saga of epic proportions
+
+cons:
+  - You only live five times
+  
+  
 long-description: "Start playing Candy Crush Saga today – loved by millions of players around the world. With over a trillion levels played, this sweet match 3 puzzle game is one of the most popular mobile games of all time!
 <br>
 <br>
