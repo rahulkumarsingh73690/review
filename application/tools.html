@@ -13,8 +13,6 @@ meta-description: Best Android Tools Application Review!
 
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
-    {% assign sorted = site.application | sort: "rank" %}
-    {% for application in sorted %}
     {% if application.categories contains 'tools' %}
     <div class="col-md-4">
       <div class="item-preview mb-5">
