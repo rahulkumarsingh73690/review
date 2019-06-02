@@ -26,6 +26,15 @@ features:
   - Identify Plants And Animals
   - Find A Look You Like
 
+pros:
+  - Well developed interface
+  - Super easy to use
+  - Isn't glitchy at all.
+  
+cons:
+   - Not always being able to recognize an object
+   - No extra components or options other than searching
+   - Would like to see this as an online tool rather than an app
 
 long-description: "TAKE ACTION ON TEXT - Look up a dish right from the menu, add events to your calendar, get directions, call a number, translate words, and more. Or just copy and paste to save some time.
 <br>
