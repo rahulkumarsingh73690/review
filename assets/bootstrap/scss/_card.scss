@@ -12,6 +12,23 @@
   background-clip: border-box;
   border: $card-border-width solid $card-border-color;
   @include border-radius($card-border-radius);
+  
+    > hr {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  > .list-group:first-child {
+    .list-group-item:first-child {
+      @include border-top-radius($card-border-radius);
+    }
+  }
+
+  > .list-group:last-child {
+    .list-group-item:last-child {
+      @include border-bottom-radius($card-border-radius);
+    }
+  }
 }
   
 .card {
