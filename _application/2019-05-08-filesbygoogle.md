@@ -28,6 +28,16 @@ features:
   - Share Files Offline
   - Backup Files On Cloud
   - Backup Files On SD Card
+  
+pros:
+  - Lightweight
+  - User-friendly file management apps
+  - Encrypted file sharing feature
+  - File organizer for android
+  - Boost up device performance
+
+cons:
+  - App doesn’t allow you to copy or delete files
 
 long-description: "Files by Google is a file management app that helps you:
 <br>
