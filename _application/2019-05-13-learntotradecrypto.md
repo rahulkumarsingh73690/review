@@ -23,6 +23,13 @@ features:
   - Added ACF Rewards 🎁 and Bounties
   - Game token vouchers
   - Sends Out Daily Updates
+  
+pros:
+   - Good Interface
+   - Easy to Understand
+
+cons:
+  - App Opening Issue
 
 long-description: "The Altcoin Fantasy app allows those new to cryptocurrencies and cryptocurrency trading to learn how to trade absolutely risk-free. Using real-time data, users can replicate trading on real exchanges using a fantasy portfolio to make their trades. For anyone who has ever wanted to learn how to trade cryptocurrencies but has been afraid to lose money, Altcoin Fantasy is the answer. 
 <br>
