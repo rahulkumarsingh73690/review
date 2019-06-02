@@ -46,8 +46,28 @@ layout: default
     </div>
     <!-----Pros and Cons------>
           <div class="card border-0 shadow mb-4">
-        <span class="font-weight-bold">Pros</span> <span class="font-weight-bold">Cons</span>
-   </div>
+   
+        <div class="card-body">
+          <h5 class="m-0">Pros</h5>
+          <hr>
+          <ul class="mb-0">
+            {% for pros in page.pros %}
+            <li>{{ pros }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+    </div>
+    
+      <div class="card-body">
+          <h5 class="m-0">Cons</h5>
+          <hr>
+          <ul class="mb-0">
+            {% for cons in page.cons %}
+            <li>{{ cons }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+    </div>
     
      <!--- Star Rating ---> 
     <div class="card border-0 shadow mb-4">
