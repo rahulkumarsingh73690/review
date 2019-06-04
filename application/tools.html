@@ -15,7 +15,7 @@ meta-description: All Android Tools App Collection
 
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
-    {% assign sorted = site.application | sort: "https://review.andrimo.com/application/phone-drive#disqus_thread" %}
+    {% assign sorted = site.application | sort: "https://review.andrimo.com/application/phone-drive/#disqus_thread" %}
     {% for application in sorted %}
     {% if application.categories contains 'tools' %}
     <div class="col-md-4">
