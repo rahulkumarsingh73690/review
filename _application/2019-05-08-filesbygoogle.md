@@ -11,7 +11,7 @@ img-desc:         "Files by Google Image"
 layout:           overview-review
 type:             theme
 download-url:     https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en_IN
-rank:             disqus-comment-count
+rank:             {{ date.published }}
 
 operating-system: Android
 play-store:       Available
