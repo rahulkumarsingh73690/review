@@ -15,7 +15,7 @@ meta-description: All Android Tools App Collection
 
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
-    {% assign sorted = site.application | sort: "<a  class="small smoothscroll" href="#disqus_thread"></a>" %}
+    {% assign sorted = site.application | sort: "#disqus_thread" %}
     {% for application in sorted %}
     {% if application.categories contains 'tools' %}
     <div class="col-md-4">
