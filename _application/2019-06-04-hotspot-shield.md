@@ -5,8 +5,8 @@ src:              /application/hotspot-shield
 categories:       tools
 description:      "Hotspot Shield VPN Proxy is the most trusted security, privacy and access platform with top performance on speed, stability and security."
 bump:             "Free VPN Proxy & Wi-Fi Security"
-img-thumbnail:    /assets/img/screenshots/application/
-img-full:         /assets/img/screenshots/application/
+img-thumbnail:    /assets/img/screenshots/application/hotspot-sheild.jpg
+img-full:         /assets/img/screenshots/application/hotspot-sheild.jpg
 img-desc:         "Hotspot Shield"
 layout:           overview-review
 type:             theme
@@ -39,6 +39,6 @@ cons:
 long-description: "Hotspot Shield VPN Proxy is the most trusted security, privacy and access platform with top performance on speed, stability and security. Hotspot Shield gives you true online freedom – bypassing geo-restrictions and accessing the world’s content from anywhere, with just one tap. "
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/
-og-image: https://review.andrimo.com/assets/img/screenshots/application/
+twitter-image: https://review.andrimo.com/assets/img/screenshots/application/hotspot-sheild.jpg
+og-image: https://review.andrimo.com/assets/img/screenshots/application/hotspot-sheild.jpg
 ---
