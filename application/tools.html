@@ -15,7 +15,7 @@ meta-description: All Android Tools App Collection
 
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
-    {% assign sorted = site.application | sort: "rank" %}
+    {% assign sorted = site.application | sort: "<script id="dsq-count-scr" src="//EXAMPLE.disqus.com/count.js" async></script>" %}
     {% for application in sorted %}
     {% if application.categories contains 'tools' %}
     <div class="col-md-4">
