@@ -8,7 +8,6 @@ permalink: /application/tools/
 meta-title: Tools App
 meta-description: All Android Tools App Collection
 ---
-<a href="{{ site.baseurl }}/{{ site.slug }}#disqus_thread">
   
 {% include masthead/masthead-page.html %}
 
@@ -16,7 +15,7 @@ meta-description: All Android Tools App Collection
 
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
-    {% assign sorted = site.application | sort: "<a href="{{ site.baseurl }}/{{ site.slug }}#disqus_thread">" %}
+    {% assign sorted = site.application | sort: "published" %}
     {% for application in sorted %}
     {% if application.categories contains 'tools' %}
     <div class="col-md-4">
