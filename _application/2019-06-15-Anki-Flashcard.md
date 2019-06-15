@@ -5,8 +5,8 @@ src:              /application/anki-flashcards
 categories:       tools
 description:      "This is a flashcard app that can be used for languages, and any learning."
 bump:             "Create & Listen with auto play"
-img-thumbnail:    /assets/img/screenshots/application/anki-flashcards.png
-img-full:         /assets/img/screenshots/application/anki-flashcards.png
+img-thumbnail:    /assets/img/screenshots/application/ankiflashcards.png
+img-full:         /assets/img/screenshots/application/ankiflashcards.png
 img-desc:         "Anki Flashcards Image"
 layout:           overview-review
 type:             theme
@@ -41,6 +41,6 @@ cons:
 long-description: "This is a flashcard app that can be used for languages, and any learning."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/anki-flashcards.png
-og-image: https://review.andrimo.com/assets/img/screenshots/application/anki-flashcards.png
+twitter-image: https://review.andrimo.com/assets/img/screenshots/application/ankiflashcards.png
+og-image: https://review.andrimo.com/assets/img/screenshots/application/ankiflashcards.png
 ---
