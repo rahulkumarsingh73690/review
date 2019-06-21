@@ -10,8 +10,7 @@ img-full:         /assets/img/screenshots/application/phone-drive.jpg
 img-desc:         "Files by Google Image"
 layout:           overview-review
 type:             theme
-download-url:     https://play.google.com/store/apps/details?id=com.eightythree.phonedrive
-rank:             
+download-url:     https://play.google.com/store/apps/details?id=com.eightythree.phonedrive         
 
 operating-system: Android
 play-store:       Available
