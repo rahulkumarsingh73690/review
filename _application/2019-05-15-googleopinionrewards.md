@@ -11,7 +11,6 @@ img-desc:         "Google Opinion Rewards"
 layout:           overview-review
 type:             theme
 download-url:     https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks&hl=en
-rank:             4
 
 operating-system: Android
 play-store:       Available
