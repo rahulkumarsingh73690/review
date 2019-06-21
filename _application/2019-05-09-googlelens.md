@@ -11,6 +11,7 @@ img-desc:         "Google Lens"
 layout:           overview-review
 type:             theme
 download-url:     https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=en
+rank:             https://review.andrimo.com/application/google-lens/#disqus_thread
 
 operating-system: Android
 play-store:       Available
