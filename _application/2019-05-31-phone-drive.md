@@ -11,7 +11,7 @@ img-desc:         "Files by Google Image"
 layout:           overview-review
 type:             theme
 download-url:     https://play.google.com/store/apps/details?id=com.eightythree.phonedrive
-rank:             
+rank:             {{ comment-count }}
 
 operating-system: Android
 play-store:       Available
