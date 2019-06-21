@@ -11,7 +11,7 @@ img-desc:         "Google Lens"
 layout:           overview-review
 type:             theme
 download-url:     https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=en
-rank:            {{ page.rank }}
+rank:            "{{ page.rank }}"
 
 
 operating-system: Android
