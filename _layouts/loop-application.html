@@ -8,7 +8,7 @@ layout: default
 
   <!-- Show paginated posts for the specificed collection -->
   <div class="row">
-    {% assign sorted = site.application | sort: "#disqus_thread" %}
+    {% assign sorted = site.application | sort: "rank" %}
     {% for application in sorted %}
 
     <div class="col-md-4">
