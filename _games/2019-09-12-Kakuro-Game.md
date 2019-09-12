@@ -11,7 +11,7 @@ img-desc:         "Kakuro Game"
 layout:           overview-review
 type:             theme
 download-url:     https://play.google.com/store/apps/details?id=com.kakurogame.kakuro_final
-rank:             1
+rank:             3
 
 operating-system: Android
 play-store:       Available
