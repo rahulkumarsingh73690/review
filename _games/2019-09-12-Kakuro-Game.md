@@ -1,12 +1,12 @@
 ---
-title:            "Kakuro Game"
+title:            "Kakuro Game - Cross Sums"
 slug:             kakuro-game
 src:              /games/kakuro-game
 categories:       puzzle
 description:      "Challenge your brain with Kakuro anywhere, anytime!"
 bump:             "Cross Sums"
-img-thumbnail:    /assets/img/screenshots/games/
-img-full:         /assets/img/screenshots/games/
+img-thumbnail:    /assets/img/screenshots/games/Kakuro%20Game.jpg
+img-full:         /assets/img/screenshots/games/Kakuro%20Game.jpg
 img-desc:         "Kakuro Game"
 layout:           overview-review
 type:             theme
@@ -49,7 +49,7 @@ long-description: "Kakuro Game Also known as Cross Sums, Kakuro is a mix between
 Each puzzle has a unique solution that can be solved without guesswork."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/games/
-og-image: https://review.andrimo.com/assets/img/screenshots/games/
+twitter-image: https://review.andrimo.com/assets/img/screenshots/games/Kakuro%20Game.jpg
+og-image: https://review.andrimo.com/assets/img/screenshots/games/Kakuro%20Game.jpg
 ---
 
