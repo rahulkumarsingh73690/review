@@ -71,14 +71,16 @@ layout: default
     </div>
     
      <!----Similar review------------------------->
+     <div class="card border-0 shadow mb-4">
          <div class="card-body">
           <h5 class="m-0">Additional {{ page.title }} Reviews</h5>
           <hr>
           <ul class="mb-0">
             {% for cons in page.cons %}
-            <li>{{ cons }}</li>
+            <li>{{ page.additionalreview }}</li>
             {% endfor %}
           </ul>
+        </div>
         </div>
    
     
