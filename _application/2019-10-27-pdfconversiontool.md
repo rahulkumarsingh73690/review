@@ -18,6 +18,9 @@ play-store:       Available
 meta-title:       "PDF Conversion Tool: Easy to Use PDF Converter"
 meta-description: "PDF Conversion Tool allows you to easily and quickly convert almost any file into PDF format and back."
 
+additionalreview:
+  - <a rel="noreferrer noopener" aria-label="9xMovies (opens in a new tab)" href="https://hubsadda.com/9xmovies-movies-download/" target="_blank">9xMovies</a>
+
 features:
   - AD Free App
   - Small Size App
