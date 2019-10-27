@@ -5,8 +5,8 @@ src:              /application/pdf-conversion-tool
 categories:       tools
 description:      "PDF Conversion Tool allows you to easily and quickly convert almost any file into PDF format and back."
 bump:             "Easy to Use PDF Converter"
-img-thumbnail:    /assets/img/screenshots/application/
-img-full:         /assets/img/screenshots/application/
+img-thumbnail:    /assets/img/screenshots/application/1280x720.png
+img-full:         /assets/img/screenshots/application/1280x720.png
 img-desc:         "PDF Converter Tool"
 layout:           overview-review
 type:             theme
@@ -37,6 +37,6 @@ cons:
 long-description: "PDF Conversion Tool allows you to easily and quickly convert almost any file into PDF format and back. Easily converts PDF file to Microsoft Word format and to almost any images format. As a bonus, it also provides the ability to protect, remove password and compress almost any PDF file without losing of quality. Friendly, clear and convenient design makes working with the application easy and understandable."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/
-og-image: https://review.andrimo.com/assets/img/screenshots/application/
+twitter-image: https://review.andrimo.com/assets/img/screenshots/application/1280x720.png
+og-image: https://review.andrimo.com/assets/img/screenshots/application/1280x720.png
 ---
