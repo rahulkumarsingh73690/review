@@ -4,10 +4,9 @@ slug:             sports-fit-vr
 src:              /application/sports-fit-vr
 categories:       sports
 description:      "Sports fit VR is one ambitious game to get whole family to exercise the fun way!"
-bump:             "Learn To Trade Crypto"
 img-thumbnail:    /assets/img/screenshots/application/
 img-full:         /assets/img/screenshots/application/
-img-desc:         "Learn To Trade Crypto Image"
+img-desc:         "Sports Fit VR"
 layout:           overview-review
 type:             theme
 download-url:     https://play.google.com/store/apps/details?id=com.beg.sportsfitvr
@@ -20,16 +19,17 @@ meta-title:       "Sports Fit VR"
 meta-description: "Sports fit VR is one ambitious game to get whole family to exercise the fun way!"
 
 features:
-  - Added ACF Rewards 🎁 and Bounties
-  - Game token vouchers
-  - Sends Out Daily Updates
+  - Works on phones without Gyroscope
+  - Works on Maximum Android version 
   
 pros:
    - Good Interface
-   - Easy to Understand
+   - Works Properly in Low Specs Smartphone
 
 cons:
   - App Opening Issue
+  - Enviroment birds buggy
+  - Paid App but Free Demo Available
 
 long-description: "Sports fit VR is one ambitious game to get whole family to exercise the fun way!
 
