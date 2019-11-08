@@ -4,8 +4,8 @@ slug:             sports-fit-vr
 src:              /application/sports-fit-vr
 categories:       sports
 description:      "Sports fit VR is one ambitious game to get whole family to exercise the fun way!"
-img-thumbnail:    /assets/img/screenshots/application/
-img-full:         /assets/img/screenshots/application/
+img-thumbnail:    /assets/img/screenshots/application/Sports%20Fit%20VR.jpg
+img-full:         /assets/img/screenshots/application/Sports%20Fit%20VR.jpg
 img-desc:         "Sports Fit VR"
 layout:           overview-review
 type:             theme
@@ -55,6 +55,6 @@ There are also hundereds of coins to collect scattered everywhere on the island.
 "
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/
-og-image: https://review.andrimo.com/assets/img/screenshots/application/
+twitter-image: https://review.andrimo.com/assets/img/screenshots/application/Sports%20Fit%20VR.jpg
+og-image: https://review.andrimo.com/assets/img/screenshots/application/Sports%20Fit%20VR.jpg
 ---
