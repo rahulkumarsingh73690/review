@@ -1,7 +1,7 @@
 ---
 title:            "Sports Fit VR"
 slug:             sports-fit-vr
-src:              /application/sports-fit-vr
+src:              /games/sports-fit-vr
 categories:       sports
 description:      "Sports fit VR is one ambitious game to get whole family to exercise the fun way!"
 img-thumbnail:    /assets/img/screenshots/games/Sports%20Fit%20VR.jpg
