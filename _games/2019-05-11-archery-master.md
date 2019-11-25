@@ -5,8 +5,8 @@ src:              /games/archery-master
 categories:       casual
 description:      "Shoot arrow to the spinning target and be the archery master! Play this fun addicting game whenever, wherever you are."
 bump:             "Arrow shooting game for free"
-img-thumbnail:    /assets/img/screenshots/games/
-img-full:         /assets/img/screenshots/games/
+img-thumbnail:    /assets/img/screenshots/games/archery-master.png
+img-full:         /assets/img/screenshots/games/archery-master.png
 img-desc:         "Archery Master"
 layout:           overview-review
 type:             theme
@@ -39,7 +39,7 @@ cons:
 long-description: "Shoot arrow to the spinning target and be the archery master! Play this fun addicting game whenever, wherever you are. This arrow game is great for everyone who wants to play bow and arrow or bow hunting games. Precision and timing is very important! It’s also a good reflex training. It’s not just shooting arrow or darts into point blank target in shooting range, you have to be able to position all the darts on the target. "
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/games/
-og-image: https://review.andrimo.com/assets/img/screenshots/games/
+twitter-image: https://review.andrimo.com/assets/img/screenshots/games/archery-master.png
+og-image: https://review.andrimo.com/assets/img/screenshots/games/archery-master.png
 ---
 
