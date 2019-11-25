@@ -3,7 +3,7 @@ title:            "Archery Master"
 slug:             archery-master
 src:              /games/archery-master
 categories:       casual
-description:      "Shoot arrow to the spinning target and be the archery master! Play this fun addicting game whenever, wherever you are."
+description:      "Arrow shooting game for free"
 bump:             "Arrow shooting game for free"
 img-thumbnail:    /assets/img/screenshots/games/archery-master.png
 img-full:         /assets/img/screenshots/games/archery-master.png
