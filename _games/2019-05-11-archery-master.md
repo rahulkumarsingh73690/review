@@ -21,7 +21,7 @@ meta-description: "Shoot arrow to the spinning target and be the archery master!
 
 features:
   - Play to win the archery tournament!
-  - Simple gameplay: tap to shoot arrow.
+  - Simple gameplay
   - Fun addicting game for everyone, kids and adult, gamer or newbie.
   - Great for precision and reflex training.
   - Practice your hand eye coordination
