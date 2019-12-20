@@ -44,6 +44,4 @@ The Fifth Tips i have for you is if your device is low FPS then i prefer you to 
 
 ## Conclusion
 
-[![How to Fix Pubg Lag](https://i.ibb.co/WfZk2GK/https-i-ytimg-com-vi-t6-N7-Lv-OL590-maxresdefault.jpg)](https://youtu.be/t6N7LvOL590 "How to Fix Pubg Lag")
-
 If you apply all four tips in your android device then your pubg is running smoothly. So the next pro of PUBG mobile is you.
