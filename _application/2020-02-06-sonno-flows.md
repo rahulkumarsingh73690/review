@@ -49,22 +49,22 @@ cons:
   - App doesn’t allow you to copy or delete files
 
 long-description: "Immerse yourself in a feeling of pure relaxation, complete involvement, and enjoyment while entering a true flow state.
-
+<br>
 
 This multi-sensorial experience combining art, 8D sounds, and an inviting environment, is the first of its kind.
-
+<br>
 
 Explore our relaxing sound library and create a custom experience to relax, sleep, or improve focus.
-
+<br>
 
 Discover our ASMR sounds and allow yourself to lose the sense of space and time.
 
-
+<br>
 Fall asleep with our 8D low-fi music playlists, enjoy a true brain massage and wake up refreshed.
 
-
+<br>
 Discover our exclusive flows, an unprecedented experience combining 8D sounds in a story that transports you into an immersive atmosphere.
-
+<br>
 
 Sonno fits the needs of restless sleepers, so the screen is darker, and the buttons are easy to find. It's perfect whether you have trouble falling asleep or you wake up in the middle of the night."
 
