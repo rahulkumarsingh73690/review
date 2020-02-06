@@ -14,6 +14,7 @@ download-url:     https://apps.apple.com/us/app/sonno-flows-sleep-relax/id148457
 
 operating-system: IOS
 play-store:       Not Available
+app-store:        Available
 
 meta-title:       "SONNO FLOWS: Sleep & Relax"
 meta-description: "Sonno presents you with deep, immersive sound experiences."
