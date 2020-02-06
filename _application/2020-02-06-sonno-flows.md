@@ -39,14 +39,13 @@ features:
   -  Calm sounds
   
 pros:
-  - Lightweight
-  - User-friendly file management apps
-  - Encrypted file sharing feature
-  - File organizer for android
-  - Boost up device performance
+  - Sound Quality is Amazing
+  - Available in Many Languages
+  - 7 Days Free Trial 
+  - 8D Sounds
 
 cons:
-  - App doesn’t allow you to copy or delete files
+  - Slightly Heavy App
 
 long-description: "Immerse yourself in a feeling of pure relaxation, complete involvement, and enjoyment while entering a true flow state.
 <br>
