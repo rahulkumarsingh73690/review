@@ -5,8 +5,8 @@ src:              /application/sonno-flows
 categories:       tools
 description:      "Sonno presents you with deep, immersive sound experiences."
 bump:             "Sleep & Relax"
-img-thumbnail:    /assets/img/screenshots
-img-full:         /assets/img/screenshots
+img-thumbnail:    /assets/img/IOS/App/zen8.jpg
+img-full:         /assets/img/IOS/App/zen8.jpg
 img-desc:         "SONNO FLOWS"
 layout:           overview-review
 type:             theme
@@ -68,6 +68,6 @@ Discover our exclusive flows, an unprecedented experience combining 8D sounds in
 Sonno fits the needs of restless sleepers, so the screen is darker, and the buttons are easy to find. It's perfect whether you have trouble falling asleep or you wake up in the middle of the night."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/
-og-image: https://review.andrimo.com/assets/img/screenshots/application/
+twitter-image: https://review.andrimo.com/assets/img/IOS/App/zen8.jpg
+og-image: https://review.andrimo.com/assets/img/IOS/App/zen8.jpg
 ---
