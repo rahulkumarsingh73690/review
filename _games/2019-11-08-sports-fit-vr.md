@@ -55,6 +55,6 @@ There are also hundereds of coins to collect scattered everywhere on the island.
 "
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/games/Sports%20Fit%20VR.jpg
-og-image: https://review.andrimo.com/assets/img/screenshots/games/Sports%20Fit%20VR.jpg
+twitter-image: https://review.hubsadda.com/assets/img/screenshots/games/Sports%20Fit%20VR.jpg
+og-image: https://review.hubsadda.com/assets/img/screenshots/games/Sports%20Fit%20VR.jpg
 ---

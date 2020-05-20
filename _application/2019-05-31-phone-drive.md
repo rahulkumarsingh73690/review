@@ -46,6 +46,6 @@ long-description: "Phone Drive is an app that let you store, manage, share, view
 "
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/phone-drive.jpg
-og-image: https://review.andrimo.com/assets/img/screenshots/application/phone-drive.jpg
+twitter-image: https://review.hubsadda.com/assets/img/screenshots/application/phone-drive.jpg
+og-image: https://review.hubsadda.com/assets/img/screenshots/application/phone-drive.jpg
 ---

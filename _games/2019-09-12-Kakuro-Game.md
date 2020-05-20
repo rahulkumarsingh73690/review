@@ -49,7 +49,7 @@ long-description: "Kakuro Game Also known as Cross Sums, Kakuro is a mix between
 Each puzzle has a unique solution that can be solved without guesswork."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/games/Kakuro%20Game.jpg
-og-image: https://review.andrimo.com/assets/img/screenshots/games/Kakuro%20Game.jpg
+twitter-image: https://review.hubsadda.com/assets/img/screenshots/games/Kakuro%20Game.jpg
+og-image: https://review.hubsadda.com/assets/img/screenshots/games/Kakuro%20Game.jpg
 ---
 

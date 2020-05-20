@@ -37,6 +37,6 @@ long-description: "The Altcoin Fantasy app allows those new to cryptocurrencies 
 Altcoin Fantasy offers a free to use cryptocurrency trading simulator that allows users to practice trading as if they were trading on a real exchange. Altcoin Fantasy hosts free daily, weekly and monthly contests where users have the opportunity to learn and test their skills against other players worldwide. Each contest has different rules and themes, making it more interesting and fun for players as they try to win using different trading strategies for each contest."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/learn-to-trade-crypto.png
-og-image: https://review.andrimo.com/assets/img/screenshots/application/learn-to-trade-crypto.png
+twitter-image: https://review.hubsadda.com/assets/img/screenshots/application/learn-to-trade-crypto.png
+og-image: https://review.hubsadda.com/assets/img/screenshots/application/learn-to-trade-crypto.png
 ---

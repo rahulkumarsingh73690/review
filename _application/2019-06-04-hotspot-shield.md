@@ -39,6 +39,6 @@ cons:
 long-description: "Hotspot Shield VPN Proxy is the most trusted security, privacy and access platform with top performance on speed, stability and security. Hotspot Shield gives you true online freedom – bypassing geo-restrictions and accessing the world’s content from anywhere, with just one tap. "
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/hotspot-sheild.jpg
-og-image: https://review.andrimo.com/assets/img/screenshots/application/hotspot-sheild.jpg
+twitter-image: https://review.hubsadda.com/assets/img/screenshots/application/hotspot-sheild.jpg
+og-image: https://review.hubsadda.com/assets/img/screenshots/application/hotspot-sheild.jpg
 ---

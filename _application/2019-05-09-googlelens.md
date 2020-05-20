@@ -48,6 +48,6 @@ IDENTIFY PLANTS AND ANIMALS - Find out what that plant is in your friend's apart
 FIND A LOOK YOU LIKE - See an outfit that catches your eye? Or a chair that's perfect for your living room? Find similar clothes, furniture, and home decor—without having to describe what you're looking for in a search box."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/application/google-lens.png
-og-image: https://review.andrimo.com/assets/img/screenshots/application/google-lens.png
+twitter-image: https://review.hubsadda.com/assets/img/screenshots/application/google-lens.png
+og-image: https://review.hubsadda.com/assets/img/screenshots/application/google-lens.png
 ---

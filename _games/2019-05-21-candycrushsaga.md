@@ -51,7 +51,7 @@ Plan your moves by matching 3 or more candies in a row, using boosters wisely in
 Take on this deliciously sweet match 3 Saga alone or play with friends! Candy Crush Saga is completely free to play but some optional in-game items will require payment."
 
 
-twitter-image: https://review.andrimo.com/assets/img/screenshots/games/Candy-Crush-Saga.jpg
-og-image: https://review.andrimo.com/assets/img/screenshots/games/Candy-Crush-Saga.jpg
+twitter-image: https://review.hubsadda.com/assets/img/screenshots/games/Candy-Crush-Saga.jpg
+og-image: https://review.hubsadda.com/assets/img/screenshots/games/Candy-Crush-Saga.jpg
 ---
 

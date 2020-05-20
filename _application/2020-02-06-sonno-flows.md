@@ -68,6 +68,6 @@ Discover our exclusive flows, an unprecedented experience combining 8D sounds in
 Sonno fits the needs of restless sleepers, so the screen is darker, and the buttons are easy to find. It's perfect whether you have trouble falling asleep or you wake up in the middle of the night."
 
 
-twitter-image: https://review.andrimo.com/assets/img/IOS/App/sonno-flows.png
-og-image: https://review.andrimo.com/assets/img/IOS/App/sonno-flows.png
+twitter-image: https://review.hubsadda.com/assets/img/IOS/App/sonno-flows.png
+og-image: https://review.hubsadda.com/assets/img/IOS/App/sonno-flows.png
 ---
